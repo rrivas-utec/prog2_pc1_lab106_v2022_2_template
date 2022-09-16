@@ -142,7 +142,7 @@ cout << calculate_average_distance(arr, sz) << endl;
 ```
 **Output:**
 ```cpp
-5
+5.0
 ```
 **Use Case #2:**
 ```cpp
@@ -153,5 +153,5 @@ cout << calculate_average_distance(arr, sz) << endl;
 ```
 **Output:**
 ```cpp
-2
+2.0
 ```
