@@ -1,0 +1,20 @@
+#input
+    0111000010110000111110
+    1
+#output
+    5
+#endtest
+
+#input
+    012133333413330113333339223
+    3
+#output
+    6
+#endtest
+
+#input
+    01111111111110233
+    7
+#output
+    0
+#endtest

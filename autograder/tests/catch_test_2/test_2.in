@@ -1,0 +1,29 @@
+#input
+    0
+#output
+    1.00000
+#endtest
+
+#input
+    1
+#output
+    2.71828
+#endtest
+
+#input
+    7
+#output
+    1096.63316
+#endtest
+
+#input
+    14
+#output
+    1202604.28416
+#endtest
+
+#input
+    23
+#output
+    9744803446.24890
+#endtest
